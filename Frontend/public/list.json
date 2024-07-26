@@ -1,0 +1,98 @@
+[
+    {
+        "id": 1,
+        "name": "Book A",
+        "title": "Introduction to JavaScript",
+        "category": "Free",
+        "price": 0,
+        "image":"https://img.freepik.com/free-vector/text-books-library-isolated-icon_24877-83372.jpg?t=st=1721502795~exp=1721506395~hmac=4dc7ba9f5b22a5a4ef00c1d077d1422fdb221e81ce9eb0e9a8e438ade6405d2c&w=740"
+    },
+    {
+        "id": 2,
+        "name": "Book B",
+        "title": "Learning Python",
+        "category": "Free",
+        "price": 0,
+        "image":"https://img.freepik.com/free-vector/text-books-library-isolated-icon_24877-83372.jpg?t=st=1721502795~exp=1721506395~hmac=4dc7ba9f5b22a5a4ef00c1d077d1422fdb221e81ce9eb0e9a8e438ade6405d2c&w=740"
+    },
+    {
+        "id": 3,
+        "name": "Book C",
+        "title": "Mastering React",
+        "category": "Free",
+        "price": 0,
+        "image":"https://img.freepik.com/free-vector/text-books-library-isolated-icon_24877-83372.jpg?t=st=1721502795~exp=1721506395~hmac=4dc7ba9f5b22a5a4ef00c1d077d1422fdb221e81ce9eb0e9a8e438ade6405d2c&w=740"
+    },
+    {
+        "id": 4,
+        "name": "Book D",
+        "title": "Deep Learning Essentials",
+        "category": "Free",
+        "price": 0,
+        "image":"https://img.freepik.com/free-vector/text-books-library-isolated-icon_24877-83372.jpg?t=st=1721502795~exp=1721506395~hmac=4dc7ba9f5b22a5a4ef00c1d077d1422fdb221e81ce9eb0e9a8e438ade6405d2c&w=740"
+    },
+    {
+        "id": 5,
+        "name": "Book E",
+        "title": "Algorithms and Data Structures",
+        "category": "Free",
+        "price": 0,
+        "image":"https://img.freepik.com/free-vector/text-books-library-isolated-icon_24877-83372.jpg?t=st=1721502795~exp=1721506395~hmac=4dc7ba9f5b22a5a4ef00c1d077d1422fdb221e81ce9eb0e9a8e438ade6405d2c&w=740"
+    },
+    {
+        "id": 6,
+        "name": "Book F",
+        "title": "Web Development with Node.js",
+        "category": "Free",
+        "price": 0,
+        "image":"https://img.freepik.com/free-vector/text-books-library-isolated-icon_24877-83372.jpg?t=st=1721502795~exp=1721506395~hmac=4dc7ba9f5b22a5a4ef00c1d077d1422fdb221e81ce9eb0e9a8e438ade6405d2c&w=740"
+    },
+    {
+        "id": 7,
+        "name": "Book G",
+        "title": "Introduction to Machine Learning",
+        "category": "Free",
+        "price": 0,
+        "image":"https://img.freepik.com/free-vector/text-books-library-isolated-icon_24877-83372.jpg?t=st=1721502795~exp=1721506395~hmac=4dc7ba9f5b22a5a4ef00c1d077d1422fdb221e81ce9eb0e9a8e438ade6405d2c&w=740"
+    },
+    {
+        "id": 8,
+        "name": "Book H",
+        "title": "iOS App Development",
+        "category": "Free",
+        "price": 0,
+        "image":"https://img.freepik.com/free-vector/text-books-library-isolated-icon_24877-83372.jpg?t=st=1721502795~exp=1721506395~hmac=4dc7ba9f5b22a5a4ef00c1d077d1422fdb221e81ce9eb0e9a8e438ade6405d2c&w=740"
+    },
+    {
+        "id": 9,
+        "name": "Book I",
+        "title": "Database Management with SQL",
+        "category": "Paid",
+        "price": 10,
+        "image":"https://img.freepik.com/free-vector/text-books-library-isolated-icon_24877-83372.jpg?t=st=1721502795~exp=1721506395~hmac=4dc7ba9f5b22a5a4ef00c1d077d1422fdb221e81ce9eb0e9a8e438ade6405d2c&w=740"
+    },
+    {
+        "id": 10,
+        "name": "Book J",
+        "title": "Artificial Intelligence in Practice",
+        "category": "Paid",
+        "price": 20,
+        "image":"https://img.freepik.com/free-vector/text-books-library-isolated-icon_24877-83372.jpg?t=st=1721502795~exp=1721506395~hmac=4dc7ba9f5b22a5a4ef00c1d077d1422fdb221e81ce9eb0e9a8e438ade6405d2c&w=740"
+    },
+    {
+        "id": 11,
+        "name": "Book K",
+        "title": "Blockchain Basics",
+        "category": "Paid",
+        "price": 30,
+        "image":"https://img.freepik.com/free-vector/text-books-library-isolated-icon_24877-83372.jpg?t=st=1721502795~exp=1721506395~hmac=4dc7ba9f5b22a5a4ef00c1d077d1422fdb221e81ce9eb0e9a8e438ade6405d2c&w=740"
+    },
+    {
+        "id": 12,
+        "name": "Book L",
+        "title": "Cybersecurity Fundamentals",
+        "category": "Paid",
+        "price": 40,
+        "image":"https://img.freepik.com/free-vector/text-books-library-isolated-icon_24877-83372.jpg?t=st=1721502795~exp=1721506395~hmac=4dc7ba9f5b22a5a4ef00c1d077d1422fdb221e81ce9eb0e9a8e438ade6405d2c&w=740"
+    }    
+]
