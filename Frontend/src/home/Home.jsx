@@ -7,8 +7,10 @@ import Footer from "../components/Footer";
 function Home() {
   return (
     <>
-      <div data-theme="light">
+      <div>
         <Navbar />
+        <Banner />
+        <Freebook />
         <Footer />
       </div>
     </>
