@@ -1,0 +1,30 @@
+{
+  "name": "book-store",
+  "version": "1.0.0",
+  "main": "index.cjs",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.cjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tushxr12/book-shop.git"
+  },
+  "author": "Tushar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tushxr12/book-shop/issues"
+  },
+  "homepage": "https://github.com/tushxr12/book-shop#readme",
+  "description": "",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "mongoose": "^8.5.1",
+    "nodemon": "^3.1.4"
+  }
+}
